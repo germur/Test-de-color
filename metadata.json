@@ -1,0 +1,7 @@
+{
+  "name": "ChromaVisage AI",
+  "description": "Advanced Digital Colorimetry and Personalized Hair Diagnosis System using Munsell Color Theory and Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
